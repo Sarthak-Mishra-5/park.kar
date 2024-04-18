@@ -1,3 +1,6 @@
+// Run this command on terminal for importing the data
+// node dev-data/data/import-dev-data.js --import
+
 const fs = require(`fs`);
 const mongoose = require(`mongoose`);
 const dotenv = require(`dotenv`);
