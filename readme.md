@@ -16,13 +16,13 @@ Getting started with Park-Kar is quick and easy:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Sarthak-Mishra-5/park-kar.git
+   git clone https://github.com/Sarthak-Mishra-5/park.kar.git
    ```
 
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd park-kar
+   cd park.kar
    ```
 
 3. **Install Dependencies**:
