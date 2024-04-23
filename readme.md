@@ -22,7 +22,7 @@ Getting started with Park-Kar is quick and easy:
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd park.kar
+   cd park-kar
    ```
 
 3. **Install Dependencies**:
